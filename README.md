@@ -16,3 +16,6 @@ The purpose of this project is to examine the character co-occurrence network an
 7. What does Google PageRank tell us about GoT?
 8. Correlation between different measures
 9. Conclusion
+
+## Project 2 - Investigating Netflix Movies and Guest Stars in The Office
+This project is also from datacamp.com that icluded handling and analysis of the data. This allowed me to perform critical tasks such as manipulating raw data and drawing conclusions from plots that I created for the data. 
